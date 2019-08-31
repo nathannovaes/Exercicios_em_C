@@ -7,7 +7,10 @@ Referência: Fundamentos da programação de computadores: algoritmos, PASCAL, C
 Qualquer dúvida e/ou sugestão, estou a disposição para ajudar. 
 
 Nome: Nathan Vitiver
+
 E-mail: nathan.vitiver@gmail.com
+
 Instagram: @nathan_vitiver
+
 LinkedIn: linkedin.com/in/nathan-vitiver-a17438aa
 
