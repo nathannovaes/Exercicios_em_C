@@ -23,5 +23,4 @@ int main() {
     //Exibe o resultado final
     printf("Salario final: R$ %.2f.\n", salario);
 
-
 }
